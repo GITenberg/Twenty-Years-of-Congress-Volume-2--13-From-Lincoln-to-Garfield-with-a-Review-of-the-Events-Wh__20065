@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9058
     wikipedia: http://en.wikipedia.org/wiki/James_G._Blaine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20065#Twenty-Years-of-Congress-Volume-2--13-From-Lincoln-to-Garfield-with-a-Review-of-the-Events-Wh_
 gutenberg_issued: '2006-12-08'
 gutenberg_type: Text
 identifiers:
